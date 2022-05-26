@@ -19,7 +19,7 @@ database can be changed in future.
 #### Get jwt token
 
 ```http
-  GET /login     
+  POST /login     
 ```
 
 | Body | Type     | Description                |
